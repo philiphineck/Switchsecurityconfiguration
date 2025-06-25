@@ -229,3 +229,17 @@ This section will verify the implemented network configurations and troubleshoot
 **On the one hand, Inactivity aging removes a secure MAC address from the table if no traffic is seen from it for the specified time. On the other hand, absolute ageing removes the address after the specified time ends, irrespective of whether there has been continuous activity from that MAC address.**
 # Conclusion
 This lab activity offers hands-on experience in configuring and securing a small network, moving from basic device setup to advanced Layer 2 security. VLANs were created to segment the network, enable efficient traffic management, and create isolated broadcast domains. The activity of configuring robust port security measures has been exciting. Unused ports have been moved to a "ParkingLot" VLAN 999, sticky MAC addresses configured, and violation modes set to control access. Furthermore, the lab explored DHCP snooping to prevent rogue DHCP servers and PortFast with BPDU Guard to enhance spanning tree stability and protect against unauthorized devices. These configurations collectively demonstrate how to build a foundational yet secure, wired network infrastructure, emphasizing the importance of defence-in-depth at the access layer. 
+
+---
+**Philiphine Cheptanui | Information Scientist, BSc | Computer Network | Cybersecurity | WordPress | Data Entry | Research | Writer.**
+
+
+---
+
+## 🌐 Connect with me:
+
+ [LinkedIn](https://linkedin.com/in/philiphinecheptanui) &emsp;&emsp;
+ [Email](koimaphilipine@gmail.com) &emsp;&emsp;
+ [PortFolio Blog](https://compnetworksecurity.blogspot.com/) &emsp;&emsp;
+ [Repository](https://github.com/philiphineck/Use-Wireshark-to-View-Network-Traffic) 
+
